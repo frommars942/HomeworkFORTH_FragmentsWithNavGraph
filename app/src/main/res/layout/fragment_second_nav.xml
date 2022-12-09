@@ -35,7 +35,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="35dp"
-        android:text="PRESS HERE FOR TURN BACK IN FIRST FRAGMENT!"
+        android:text="PRESS ANDROID IMAGE FOR TURN BACK IN FIRST FRAGMENT!"
         android:textColor="#000000"
         android:textSize="18sp"
         android:textStyle="bold"
